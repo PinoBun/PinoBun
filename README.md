@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 I'm Hec</h1>
+<h1 align="center">Hey there! 👋 I'm Pino</h1>
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 - 🌱 I’m currently diving into **Python**, **JavaScript**, **C#**, and **TypeScript** to earn and grow in tech
