@@ -2,21 +2,22 @@
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=CERN%20Particle%20Collider%20Inspired%20Banner&fontSize=30&fontAlignY=50" />
 </p>
 
 <p align="center">
   <a href="https://github.com/yourgithub">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+PinoBun;Aspiring+Software+Dev;AI+%26+Tech+Enthusiast;Lifelong+Learner"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+PinoBun;Aspiring+Software+Dev;AI+%26+Tech+Enthusiast;Lifelong+Learner;One+Piece+Fanboy!"/>
   </a>
 </p>
 
 ---
 
-## 🚀 About Me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px">
+## ☠️ One Piece Inspired About Me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px">
 - 💻 Aspiring **Software Developer**
 - 🔭 Currently working on an **AI Bot** project to enhance my coding skills
 - 🤝 Open to collaborating on **open-source projects** and **web development** gigs
+- 🏴‍☠️ One Piece Enthusiast, My Code Runs on Haki! ⚔️
 - 📫 Connect with me on [GitHub](https://github.com/pinobun) / [Reddit](https://www.reddit.com/user/pin0bun) / [Instagram](https://instagram.com/pin0bun)
 
 ## 🔧 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
@@ -51,5 +52,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=footer&text=Supercomputer%20Inspired%20Footer&fontSize=30&fontAlignY=50" />
 </p>
