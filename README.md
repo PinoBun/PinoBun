@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
+[<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
@@ -54,3 +54,4 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" />
 </p>
+](https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq)
