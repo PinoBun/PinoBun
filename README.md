@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=CERN%20Particle%20Collider%20Inspired%20Banner&fontSize=30&fontAlignY=50" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 </p>
 
 <p align="center">
@@ -13,12 +13,14 @@
 
 ---
 
-## ☠️ One Piece Inspired About Me <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="30px">
-- 💻 Aspiring **Software Developer**
-- 🔭 Currently working on an **AI Bot** project to enhance my coding skills
-- 🤝 Open to collaborating on **open-source projects** and **web development** gigs
-- 🏴‍☠️ One Piece Enthusiast, My Code Runs on Haki! ⚔️
-- 📫 Connect with me on [GitHub](https://github.com/pinobun) / [Reddit](https://www.reddit.com/user/pin0bun) / [Instagram](https://instagram.com/pin0bun)
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30px"> One Piece Inspired About Me
+- <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="30px"> Aspiring **Software Developer**
+- <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="30px"> Currently working on an **AI Bot** project to enhance my coding skills
+- <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30px"> Open to collaborating on **open-source projects** and **web development** gigs
+- <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="30px"> One Piece Enthusiast, My Code Runs on Haki! ⚔️
+- 📫 Connect with me on:
+  - <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"> [Instagram](https://instagram.com/pin0bun)
+  - <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"> [Twitter](https://twitter.com/pin0bun)
 
 ## 🔧 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
 <p align="center">
@@ -52,5 +54,5 @@
 
 ---
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif](https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif)" width="500" />
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" />
 </p>
