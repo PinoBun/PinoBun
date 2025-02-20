@@ -22,7 +22,7 @@
   - <a href="https://instagram.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"></a>
   - <a href="https://twitter.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"></a>
 
-## 🔧 Tech Stack & Tools 
+## 🔧 Tech Stack & Tools
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50px" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" />
@@ -32,6 +32,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="50px" />
   <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="50px" />
   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50px" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pinobun&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinobun&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+## 🎶 Spotify Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/31t74mah6bo5e5hmzta2jkklivfy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t74mah6bo5e5hmzta2jkklivfy"/>
+  </a>
+</p>
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 ---
