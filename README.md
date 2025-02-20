@@ -1,4 +1,4 @@
-[[[[[[[[<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
   - <a href="https://instagram.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"></a>
   - <a href="https://twitter.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"></a>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG96cGtvenp0M2hraXA0cWpvb2F6YzJ6MnZzMHhuc3A4ZzRqZjlvZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bpmNf92LmkoMw/giphy.gif" width="30px"> Tech Stack & Tools
+## 🔧 Tech Stack & Tools
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50px" />
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50px" />
@@ -34,18 +34,21 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50px" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V2ZGp1OXJlbzBhdTNkbXZoNW15dmdlcXV1YXN5dGRkdGttcHVsYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcMEcaJjvqrAPFlZrh/giphy.gif" width="80%" />
-</p>
-
-## <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11.gif" width="30px"> GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pinobun&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinobun&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-## <img src="https://media.giphy.com/media/26u6dIwIphLj8h10A/giphy.gif" width="30px"> Random Dev Quote
+## 🎶 Spotify Now Playing
+<p align="center">
+  <a href="https://open.spotify.com/user/31t74mah6bo5e5hmzta2jkklivfy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t74mah6bo5e5hmzta2jkklivfy"/>
+  </a>
+</p>
+
+## ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
@@ -54,11 +57,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" />
 </p>
-](https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
-](https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG)
