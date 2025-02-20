@@ -1,4 +1,4 @@
-[¯<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm PinoBun</h1>
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
@@ -18,9 +18,9 @@
 - <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="30px"> Currently working on an **AI Bot** project to enhance my coding skills
 - <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30px"> Open to collaborating on **open-source projects** and **web development** gigs
 - <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="30px"> One Piece Enthusiast, My Code Runs on Haki! ⚔️
-- 📫 Connect with me on:
-  - <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"> [Instagram](https://instagram.com/pin0bun)
-  - <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"> [Twitter](https://twitter.com/pin0bun)
+- <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px"> Connect with me on:
+  - <a href="https://instagram.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"></a>
+  - <a href="https://twitter.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"></a>
 
 ## 🔧 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
 <p align="center">
@@ -56,4 +56,3 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" />
 </p>
-](https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif)
