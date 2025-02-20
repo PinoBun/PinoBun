@@ -20,7 +20,7 @@
 - <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="30px"> One Piece Enthusiast, My Code Runs on Haki! ⚔️
 - <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px"> Connect with me on:
   - <a href="https://instagram.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"></a>
-  - <a href="https://twitter.com/pin0bun"><img src="https://imgur.com/a/YAlL68O" width="30px"></a>
+  - <a href="https://twitter.com/pin0bun"><img src="https://github.com/PinoBun/PinoBun/blob/ca94eba64c4a2f28b53cbb4524fbb3f61cd86f0b/twitter-x-logo-animation-download-in-lottie-json-gif-static-svg-file-formats--social-media-button-animated-pack-animations-7759034.gif" width="30px"></a>
 
 ## 🔧 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
 <p align="center">
@@ -31,25 +31,6 @@
   <a href="https://dotnet.microsoft.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a>
-</p>
-
-## 📊 GitHub Stats <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="30px">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinobun&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinobun&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-## 🎶 Spotify Now Playing <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30px">
-<p align="center">
-  <a href="https://open.spotify.com/user/31t74mah6bo5e5hmzta2jkklivfy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t74mah6bo5e5hmzta2jkklivfy"/>
-  </a>
-</p>
-
-## ✍️ Random Dev Quote <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30px">
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
 ---
