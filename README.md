@@ -34,6 +34,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="50px" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2V2ZGp1OXJlbzBhdTNkbXZoNW15dmdlcXV1YXN5dGRkdGttcHVsYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kcMEcaJjvqrAPFlZrh/giphy.gif" width="80%" />
+</p>
+
 ## <img src="https://giphy.com/gifs/PizzaNinjas-coding-pizza-ninjas-pizzaninjas-jBOOXxSJfG8kqMxT11.gif" width="30px"> GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pinobun&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
