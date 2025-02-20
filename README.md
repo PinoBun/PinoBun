@@ -1,4 +1,4 @@
-[<h1 align="center">Hey there! 👋 I'm PinoBun</h1>
+<h1 align="center">Hey there! 👋 I'm PinoBun</h1>
 <h3 align="center">Aspiring Software Developer & Lifelong Learner</h3>
 
 <p align="center">
@@ -39,7 +39,9 @@
 
 ## 🎶 Spotify Now Playing
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=y31t74mah6bo5e5hmzta2jkklivfy"/>
+  <a href="https://open.spotify.com/user/31t74mah6bo5e5hmzta2jkklivfy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31t74mah6bo5e5hmzta2jkklivfy"/>
+  </a>
 </p>
 
 ## ✍️ Random Dev Quote
@@ -51,4 +53,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
-](https://open.spotify.com/user/31t74mah6bo5e5hmzta2jkklivfy)
