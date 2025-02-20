@@ -20,7 +20,7 @@
 - <img src="https://user-images.githubusercontent.com/74038190/226190908-cd4e0a61-801d-4b69-955b-5bd82eb7c10e.gif" width="30px"> One Piece Enthusiast, My Code Runs on Haki! ⚔️
 - <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="30px"> Connect with me on:
   - <a href="https://instagram.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="30px"></a>
-  - <a href="https://twitter.com/pin0bun"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="30px"></a>
+  - <a href="https://twitter.com/pin0bun"><img src="https://imgur.com/a/YAlL68O" width="30px"></a>
 
 ## 🔧 Tech Stack & Tools <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30px">
 <p align="center">
