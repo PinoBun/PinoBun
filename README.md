@@ -53,7 +53,13 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
+## 🚀 LeetCode Stats  
+<p align="center">  
+  <img src="https://leetcard.jacoblin.cool/pin0bun?theme=dark&font=ABeeZee" />  
+</p>
+
 ---
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" />
 </p>
+
